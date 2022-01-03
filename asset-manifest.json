@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/urszula2108/6-search-engine.git/static/css/main.ac5bab16.css",
+    "main.js": "/urszula2108/6-search-engine.git/static/js/main.ef7e76d6.js",
+    "static/js/787.aa578000.chunk.js": "/urszula2108/6-search-engine.git/static/js/787.aa578000.chunk.js",
+    "index.html": "/urszula2108/6-search-engine.git/index.html",
+    "main.ac5bab16.css.map": "/urszula2108/6-search-engine.git/static/css/main.ac5bab16.css.map",
+    "main.ef7e76d6.js.map": "/urszula2108/6-search-engine.git/static/js/main.ef7e76d6.js.map",
+    "787.aa578000.chunk.js.map": "/urszula2108/6-search-engine.git/static/js/787.aa578000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac5bab16.css",
+    "static/js/main.ef7e76d6.js"
+  ]
+}
