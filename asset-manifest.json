@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/6-search-engine/static/css/main.ac5bab16.css",
-    "main.js": "/6-search-engine/static/js/main.65196778.js",
-    "static/js/787.aa578000.chunk.js": "/6-search-engine/static/js/787.aa578000.chunk.js",
-    "index.html": "/6-search-engine/index.html",
-    "main.ac5bab16.css.map": "/6-search-engine/static/css/main.ac5bab16.css.map",
-    "main.65196778.js.map": "/6-search-engine/static/js/main.65196778.js.map",
-    "787.aa578000.chunk.js.map": "/6-search-engine/static/js/787.aa578000.chunk.js.map"
+    "main.css": "/6-react-search-engine/static/css/main.ac5bab16.css",
+    "main.js": "/6-react-search-engine/static/js/main.79ecf09e.js",
+    "static/js/787.4fe9e720.chunk.js": "/6-react-search-engine/static/js/787.4fe9e720.chunk.js",
+    "index.html": "/6-react-search-engine/index.html",
+    "main.ac5bab16.css.map": "/6-react-search-engine/static/css/main.ac5bab16.css.map",
+    "main.79ecf09e.js.map": "/6-react-search-engine/static/js/main.79ecf09e.js.map",
+    "787.4fe9e720.chunk.js.map": "/6-react-search-engine/static/js/787.4fe9e720.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac5bab16.css",
-    "static/js/main.65196778.js"
+    "static/js/main.79ecf09e.js"
   ]
 }
